@@ -1,6 +1,6 @@
 cask "ami" do
-  version "0.0.1"
-  sha256 "79b0425e1ba436703cbe5186e1c3519763aa2d13fdfb246c8dc25bc5a1885b7e"
+  version "0.0.2"
+  sha256 "39551c0598262f1d64185768e1652c5f20fca2a67073780b822915ac442a5389"
 
   url "https://github.com/millionco/ami-releases/releases/download/v#{version}/ami-macos-arm64-#{version}.zip"
   name "Ami"
